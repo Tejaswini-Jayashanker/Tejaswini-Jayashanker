@@ -4,6 +4,7 @@
 **Tejaswini-Jayashanker/Tejaswini-Jayashanker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+I am a System SW Dev Engineer at Intel.
 
 - 🔭 I’m currently working on Machine Learning and Computer Vision, Self paced learning Projects.
 - :crystal_ball: I am actively looking for Internships and Full time employment in ML Domain.
