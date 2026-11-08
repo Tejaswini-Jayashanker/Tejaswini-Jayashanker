@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💻 I have worked on both RTOS and Bare Metal Embedded Controllers as a Developer, majorly in C Programming Language with Python for Scripting.
 - 👩‍💻 C, C++, Python, SQL, Power BI, Docker, pyTorch.
 - ▶️I am a AI SW Solns Engg at Intel. 
-- 🌱 Nature Lover 🪐 You never where and when a world-changing idea strikes. Fav Quote: Passion is the Fuel to Success - Kobe Bryant
+- 🌱 Nature Lover 🪐 You never know where and when a world-changing idea strikes. Fav Quote: Passion is the Fuel to Success - Kobe Bryant
 - 💬 I like Anime, Sports, Music, Animals.
 - 📫 How to reach me: tejaswinijayashanker@yahoo.in OR tej.jayashanker28@gmail.com
 - ⚡ Fun fact: I am Tony Stark 😉
